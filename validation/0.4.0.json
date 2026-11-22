@@ -1,0 +1,30 @@
+{
+  "version": "0.4.0",
+  "package": "FlowFTP-0.4.0-macOS-arm64.pkg",
+  "sha256": "8692f99f89b5e61c7a23ef175c9cb9cc396476e2108677cffac1103d2b836a20",
+  "architecture": "arm64",
+  "minimum_macos": "27.0",
+  "notarized": false,
+  "video": "FlowFTP-0.4.0-operation-demo.mp4",
+  "core_check_groups_passed": 5,
+  "activation_checks_passed": true,
+  "package_integrity_checked": true,
+  "recording": {
+    "duration_seconds": 32.433,
+    "language": "zh-CN",
+    "audio": "AAC",
+    "size_bytes": 2682063,
+    "fixtures": "synthetic offline demonstration"
+  },
+  "network_report_asset": "protocol-results.json",
+  "native_gui_network_report": "GUI-TRANSPORT-RESULTS.json",
+  "native_gui_verified_connections": [
+    "ftp",
+    "ftps-explicit",
+    "ftps-implicit",
+    "sftp"
+  ],
+  "native_gui_direct_files_verified": 20,
+  "native_gui_proxy_files_verified": 8,
+  "automated_packaged_cli_suite_completed": false
+}

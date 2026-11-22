@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "package": "FlowFTP-0.2.0-macOS-arm64.pkg",
+  "sha256": "4a786252b7eae5c8242391f8b40f68529d5e089c33d717943cf837702c762418",
+  "architecture": "arm64",
+  "macos_minimum": "27.0",
+  "preview": true,
+  "notarized": false,
+  "video": "FlowFTP-0.2.0-operation-demo.mp4",
+  "tested_macos": "27.2.1",
+  "core_checks": 5,
+  "activation_rejections": [
+    "wrong_machine",
+    "tampered_signature",
+    "foreign_signer",
+    "foreign_product",
+    "noncanonical"
+  ],
+  "owner_key_matches": true,
+  "pkg_extraction_and_ad_hoc_signature_verified": true,
+  "app_window_recorded": true,
+  "video_kind": "isolated app window, synthetic data, file transfer simulated with local copies",
+  "video_seconds": 31.08,
+  "production_live_network_retested": false
+}

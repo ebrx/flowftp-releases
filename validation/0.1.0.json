@@ -1,0 +1,26 @@
+{
+  "version": "0.1.0",
+  "package": "FlowFTP-0.1.0-macOS-arm64.pkg",
+  "sha256": "c75376cf93471e43cd50283b632813032d9fcbcc11ba9a07265de41316c8cd3b",
+  "package_size": 4156727,
+  "build_arch": "arm64",
+  "test_macos": "27.2.1",
+  "app_signature": "ad-hoc; codesign --verify --deep --strict passed",
+  "pkg_signature": "unsigned",
+  "notarized": false,
+  "capabilities": {
+    "tls": "OpenSSL/4.1.0",
+    "ftps": "yes",
+    "ssh": "libssh2/1.11.1",
+    "libcurl": "8.23.0",
+    "sftp": "yes",
+    "ftp": "yes"
+  },
+  "release_core_checks": 5,
+  "release_package_expanded": true,
+  "prior_prototype_network_checks": 28,
+  "release_live_install_tested": false,
+  "release_gui_tested": false,
+  "release_network_tested": false,
+  "video": "recorded command execution; reformatted for viewing"
+}

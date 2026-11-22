@@ -1,0 +1,30 @@
+{
+  "version": "0.3.0",
+  "package": "FlowFTP-0.3.0-macOS-arm64.pkg",
+  "sha256": "a54f9007b11c98e44bf54a15930fa11630116698348fdf13122aa7acc5e9f7c5",
+  "architecture": "arm64",
+  "minimum_macos": "27.0",
+  "notarized": false,
+  "video": "FlowFTP-0.3.0-operation-demo.mp4",
+  "core_checks_passed": 5,
+  "issuer_checks_passed": true,
+  "ui_demo_verified": [
+    "one-click directory load",
+    "multi-select",
+    "192 MiB sample",
+    "per-file progress",
+    "rename and keep",
+    "skip",
+    "replace one",
+    "replace all in batch",
+    "English labels"
+  ],
+  "ui_demo_transport": "offline, synthetic fixtures",
+  "planned_network_modes": [
+    "ftp",
+    "ftps-explicit",
+    "ftps-implicit",
+    "sftp"
+  ],
+  "network_retest_has_result": false
+}

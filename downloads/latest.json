@@ -1,0 +1,9 @@
+{
+  "version": "0.4.0",
+  "package": "FlowFTP-0.4.0-macOS-arm64.pkg",
+  "sha256": "8692f99f89b5e61c7a23ef175c9cb9cc396476e2108677cffac1103d2b836a20",
+  "architecture": "arm64",
+  "minimum_macos": "27.0",
+  "notarized": false,
+  "video": "FlowFTP-0.4.0-operation-demo.mp4"
+}
